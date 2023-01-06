@@ -1,0 +1,2 @@
+# mazeGenerator
+JavaScript maze generator
