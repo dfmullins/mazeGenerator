@@ -1,2 +1,2 @@
 # mazeGenerator
-To demo maZeGenerator, go here: http://www.damionmullins.com/projects/mazegenerator
+To demo mazeGenerator, go here: http://www.damionmullins.com/projects/mazegenerator
